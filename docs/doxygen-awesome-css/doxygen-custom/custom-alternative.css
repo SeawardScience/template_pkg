@@ -4,7 +4,7 @@ html.alternative {
     --primary-dark-color: #9270E4;
     --primary-light-color: #7aabd6;
     --primary-lighter-color: #cae1f1;
-    --primary-lightest-color: #e9f1f8;*/
+    --primary-lightest-color: #e9f1f8;
 
     /* page base colors */
     --page-background-color: white;
@@ -21,7 +21,7 @@ html.alternative {
 
     --top-height: 125px;
 
-    --side-nav-background: #466069;
+    --side-nav-background: #324067;
     --side-nav-foreground: #F1FDFF;
     --header-foreground: var(--side-nav-foreground);
     --searchbar-background: var(--side-nav-foreground);
