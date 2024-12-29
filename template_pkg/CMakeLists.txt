@@ -87,10 +87,6 @@ install(TARGETS
   ${EXECUTABLES}
   DESTINATION lib/${PROJECT_NAME}/
 )
-install(PROGRAMS
-  scripts/replay_pcap.sh
-  DESTINATION lib/${PROJECT_NAME}
-)
 install(DIRECTORY
   launch
   DESTINATION share/${PROJECT_NAME}/
