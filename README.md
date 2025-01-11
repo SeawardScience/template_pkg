@@ -7,7 +7,7 @@ This package is was designed as a starting point for building a ROS2 C++ package
 - pre-included doxygen configuration with easy to use and stylish output
 - pre-defined github actions to build the documentation and deploy it to github.io
 
-It is highly recomended that you complete the following checklit before you make public a repository derived from this package.
+It is highly recomended that you complete the following checklist before you make public a repository derived from this package.
 
 # Public Repository Checklist   
 
